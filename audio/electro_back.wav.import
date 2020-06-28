@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/electro_back.wav-d6f94194955dee27b4c6cadc7db87d87.sample"
+
+[deps]
+
+source_file="res://audio/electro_back.wav"
+dest_files=[ "res://.import/electro_back.wav-d6f94194955dee27b4c6cadc7db87d87.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

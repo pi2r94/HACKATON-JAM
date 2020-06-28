@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/piano_back.wav-21f89db131579457c86c9b2e8f0410e9.sample"
+
+[deps]
+
+source_file="res://piano_back.wav"
+dest_files=[ "res://.import/piano_back.wav-21f89db131579457c86c9b2e8f0410e9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
